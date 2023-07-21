@@ -2,5 +2,5 @@
 "origin", "success","","","100"
 "origin", "retry","","","300"
 "origin", "ignore","","","40"
-"", "retry", "retry-1","","200"
-"", "retry", "success","","100"
+"origin", "retry", "retry-1","","200"
+"origin", "retry", "success","","100"

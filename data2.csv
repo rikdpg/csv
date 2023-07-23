@@ -1,0 +1,4 @@
+"type","source","target","value"
+"success","relay42","OK",100
+"retry","relay42","Retry-1","300"
+"ignore","relay42","Ignore",50
